@@ -1,0 +1,11 @@
+Model Information:
+* title:	Perspective
+* source:	https://sketchfab.com/3d-models/perspective-d84f98de4a0a4d509d5df6e52936823c
+* author:	David Junghanns (https://sketchfab.com/davidju)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Perspective" (https://sketchfab.com/3d-models/perspective-d84f98de4a0a4d509d5df6e52936823c) by David Junghanns (https://sketchfab.com/davidju) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
